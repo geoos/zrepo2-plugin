@@ -4,9 +4,17 @@ import http from "http";
 import fs from "fs";
 import zrepo2Plugin from "./lib/ZRepo2Plugin.js";
 import zRepoClient from "./lib/ZRepoClient.js";
+import mongoDB from "./lib/MongoDB.js";
 
 async function startHTTPServer() {
     try {
+        try {
+            await mongoDB.init();
+        } catch(error) {
+            console.error("Error conectando a MongoDB", error);
+            throw error;
+        }
+
         let version = "?";
         try {
             let txt = fs.readFileSync("./build.sh").toString();
