@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "geoos-monitoreo-huinay",
+  "private_key_id": "055989a4acee020e975426ad0d45381bc8f91e06",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDETS35XV2GFXNk\nVXx4EuOVAU9hm71Vn5XwvC5iraGjslESoYo5g+KSoi4ZJFKbcY6LWBIKG0lG7wJF\n5WFnDwjU6H1GxZA9WcmKhiNgjwVHnesBKtONY2fc5C8qhcVHTWZY0iByUbqK0O5X\nPCs1IrtlOLGuPcYpquEhvghaDBYporhtP+vkB79jrGpPjLVN8JPl1nfQ8CpHnrTC\nI5JilsHASnrHbIoyDXVjZSDO+8c9kN5F4WfZYGHqWwhVN1EE2nAG+BVohg4VN20f\n87cL/8tkle7TCe7DBFlSOiyFK9J4js72gEzjQP/pl0w2Lz1DJY92LiYb4isVP/lu\nnb23GOvTAgMBAAECggEAMgmgYfOgLtkR8G3wC+V4uJc8ZlueEBDdVh+JzWKIFOOT\n0eV2iAGrxAfuKz98hR4VoURiWMwqyheLo0h8oxoMfMUEhgE/KrxT6OkXZHogdOh2\nqnYBtgU0SPSrZzHxHyNGJvbtCWb234KxdnAibWl8jik89XbOp/lkaMb5dwaksZjT\nsS6FJTz61EQrPU/CANb8IJ9/rNUv0e6iuXNNovBXmW5qpkdgvrkpRE2TN9cWZDuC\nH2EwNkev+yfpfjHuWcpRpskEBfFoS5U4CPg0lsLVcNoUTwrwEKu4uHRlz7BVwWqg\nZzs387AwoGe/Svkw7Ox+UqQZJNMwkvFL3D/cv7dJ+QKBgQDzXphU7g5eXf+oPPhw\n/gHZu+AfiYTCfZDrY2ea7rRmoFF5NP6Hpuk2/UJMFrWbm03AuKnXzcam2VZKzz0T\nMU5jDZggjQrXcOyFJ+u0KDvnk8nx4mGIDajGC1X+M7RgqHOweXC79QN889ARo7MO\nwCPZVqURW4YAB7lGPvMt6W0xuwKBgQDOfT059h4oAR2q20gP3QQNLIjqyht0zDsH\neG7C8LVk1hgRNxDcYHcAtDNP2BsLWSq0wCCTKBj6y4JX97U6VDrwqTAaBPcZW3DR\nDmDKrEzTH+aI8OJHh4yLtjCbVXyp0cFOYQ3FN/Ktnxc0CHOlyWCIzK2gCPwCgLKp\nI/KKO1igyQKBgQDbyfuDADdjzDqegunQieW78Su476ZBS8t8ehrQVnIAGRtbfpu8\ngOYwLksYko3TCVAQE/X3mrSkbLW8/CppUec8F8Pi6d33sdk5bFM3Mfrf6p2/4LY6\nfDOHICe6WpG1lYxdvV8tsFpFF6A6vf9w+9+kYdbTtTdwgYk2wpU2SpC+DwKBgExg\ndLIowBTJ/OBCxc/gT2xUCbzWzvsPw9HKkSWYBXBr5HERrjHlmH7xKH2jELXM4IgE\n/MeRsFOrzOWe4TDXEQoNepZVOdTuRrd9Gv48Zxo8lXgXqYsNr0XKOQZrw3XI+Th1\nm7NUM3ZW/y0m5yfuab+P/bTRPe3rDqqTelX5B5pJAoGBAJwqn23g16SFuNrDoIMQ\nkYJKQRU7cxqWrRHMlXb23IA5K1SuALhod7Evv11rtYuEiRKEiZtosUhQ5C5nMxxW\nsMHfv0PUhQVbHxbkK4c6aHg1O4EyYIaDoDlmYn+jMlhCZrVkc5ab198ZgzXLizAr\n+K3i5LmhHTn0qRDok3WD0D3l\n-----END PRIVATE KEY-----\n",
+  "client_email": "monitoreo-huinay@geoos-monitoreo-huinay.iam.gserviceaccount.com",
+  "client_id": "114609288020017772537",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/monitoreo-huinay%40geoos-monitoreo-huinay.iam.gserviceaccount.com"
+}
