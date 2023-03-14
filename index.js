@@ -36,7 +36,7 @@ async function startHTTPServer() {
         });
         try {
             await zRepoClient.init(process.env.ZREPO_URL, process.env.ZREPO_TOKEN);
-            await zrepo2Plugin.init(app, process.env.ZREPO_URL, process.env.ZREPO_PLUGIN_CODE, process.env.ZREPO_PLUGIN_PWD, process.env.ZREPO_PLUGIN_CALLBACK_URL);
+            await zrepo2Plugin.init(app, process.env.ZREPO_URL, "zr2pi");
         } catch(error) {
             console.error("Error conectando a ZRepo", error);
             throw error;
@@ -44,7 +44,7 @@ async function startHTTPServer() {
 
         const port = process.env.HTTP_PORT || 8090;
         const httpServer = http.createServer(app);
-        httpServer.listen(port, "0.0.0.0", async _ => {
+        httpServer.listen(port, "::", async _ => {
             console.log("[ZRepo2 PlugIn - Procesos de Carga - " + version + "] HTTP Web Server listenning at port " + port);
         });
     } catch(error) {
