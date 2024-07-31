@@ -33,7 +33,7 @@
     "luxon": "^3.0.3",
     "moment-timezone": "^0.5.41",
     "mongodb": "^3.6.2",
-    "node-fetch": "^3.2.10",
+    "node-fetch": "^3.3.2",
     "s3-download": "^1.0.0"
   },
   "devDependencies": {
